@@ -24,7 +24,11 @@
                         <router-link class="navbar-item has-text-link has-text-weight-bold is-hidden-touch" to="/about">About</router-link>
                         <router-link class="navbar-item has-text-link has-text-weight-bold is-hidden-touch" to="/projects">Projects</router-link>
                         <router-link class="navbar-item has-text-link has-text-weight-bold is-hidden-touch" to="/experience">Experience</router-link>
-                        <!-- <a class="navbar-item has-text-white has-text-weight-bold is-hidden-desktop" href="#home">Home</a> -->
+                        <a class="navbar-item has-text-white has-text-weight-bold is-hidden-desktop" href="#home">Home</a>
+                        <a class="navbar-item has-text-white has-text-weight-bold is-hidden-desktop" href="#about">About</a>
+                        <a class="navbar-item has-text-white has-text-weight-bold is-hidden-desktop" href="#projects">Projects</a>
+                        <a class="navbar-item has-text-white has-text-weight-bold is-hidden-desktop" href="#experience">Experience</a>
+                        <a class="navbar-item has-text-white has-text-weight-bold is-hidden-desktop" href="#contact">Contact</a>
                     </div>
                     <div class="navbar-end">
                         <a class="navbar-item has-text-white has-text-weight-bold is-hidden-touch link" href="#contact">Contact</a>
